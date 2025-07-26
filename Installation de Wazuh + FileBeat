@@ -1,1 +1,6 @@
-
+WAZUH INSTALLATION
+On va installer Wazuh en utilisant le QuickStart Guide, 
+en lancant uniquement une seule Commande :
+----                -----            ----          ----           ----          ----
+curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+ Cette commande installera la suite Wazuh (Wazuh Indexer, Wazuher Server et le Wazuh Dashboard)
