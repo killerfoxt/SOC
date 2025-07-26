@@ -22,3 +22,8 @@ Save the repository definition to /etc/apt/sources.list.d/elastic-9.x.list:
 echo "deb [signed-by=/usr/share/keyrings/elasticsearch-keyring.gpg] https://artifacts.elastic.co/packages/9.x/apt stable main" | sudo tee /etc/apt/sources.list.d/elastic-9.x.list
 
 
+Install the Elasticsearch Debian package:
+
+sudo apt-get update && sudo apt-get install elasticsearch
+<img width="1457" height="910" alt="Image" src="https://github.com/user-attachments/assets/7ad17b72-4b2a-49c7-a750-9369650e449c" />
+
