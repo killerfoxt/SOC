@@ -4,3 +4,4 @@ en lancant uniquement une seule Commande :
 ----                -----            ----          ----           ----          ----
 curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
  Cette commande installera la suite Wazuh (Wazuh Indexer, Wazuher Server et le Wazuh Dashboard)
+file:///C:/Users/habib/Pictures/Screenshots/Screenshot%202025-07-26%20172642.png
