@@ -18,7 +18,7 @@ Install from the APT repository
 You may need to install the apt-transport-https package on Debian before proceeding:
 sudo apt-get install apt-transport-https
 
-Save the repository definition to /etc/apt/sources.list.d/elastic-9.x.list:
+Save the repository definition to /etc/apt/sources.list.d/elastic-9.x.list: <br> </br>
 echo "deb [signed-by=/usr/share/keyrings/elasticsearch-keyring.gpg] https://artifacts.elastic.co/packages/9.x/apt stable main" | sudo tee /etc/apt/sources.list.d/elastic-9.x.list
 
 
