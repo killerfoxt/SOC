@@ -15,7 +15,7 @@ Download and install the public signing key: wget -qO - https://artifacts.elasti
 Step 2: Installation Elasticsearch
 
 Install from the APT repository
-You may need to install the apt-transport-https package on Debian before proceeding:
+You may need to install the apt-transport-https package on Debian before proceeding:/
 sudo apt-get install apt-transport-https
 
 Save the repository definition to /etc/apt/sources.list.d/elastic-9.x.list:
