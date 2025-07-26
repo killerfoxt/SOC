@@ -25,7 +25,9 @@ Install the Elasticsearch Debian package:
 
 sudo apt-get update && sudo apt-get install elasticsearch <br> </br>
 <img width="1457" height="910" alt="Image" src="https://github.com/user-attachments/assets/7ad17b72-4b2a-49c7-a750-9369650e449c" />
-
+<br></br>
+<img width="595" height="406" alt="Image" src="https://github.com/user-attachments/assets/c214ffeb-c0ea-4363-b9ac-1ab8325f1ecb" />
+<br></br>
 Installation de Kibana <br> </br>
 Step 1: Import the Elastic PGP key <br> </br>
 Download and install the public signing key: wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo gpg --dearmor -o /usr/share/keyrings/elasticsearch-keyring.gpg <br></br>
